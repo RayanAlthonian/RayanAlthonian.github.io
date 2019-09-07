@@ -38,6 +38,6 @@ we notice here that there is one issue, on Friday between 5 to 7 am a sudden spi
 ### Final Thoughts
 
 I think the first project is relatively easy, but it might be challenging for those
-who do not have to prior exposure to pandas. Overall, it was an interesting project
-and experience to test out what we have learned in the first week.
+who do not have prior exposure to pandas. Overall, it was an interesting project
+and a great experience to test out what we have learned in the first week.
 {: style="text-align: justify"}
