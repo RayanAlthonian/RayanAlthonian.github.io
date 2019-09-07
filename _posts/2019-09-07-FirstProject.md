@@ -19,6 +19,20 @@ The first visual that we have obtained is the one that shows the best days for t
 {: style="text-align: justify"}
 ![Image test]({{ site.url }}/images/fig1.png)
 
-we notice from the figure that Thursday, Wednesday and Friday are the top three days
-in terms of the average daily inflows and outflows, so we can say on initial thought that these three days are more likely to bring more people to the gala.  
+We notice from the figure that Thursday, Wednesday and Friday are the top three days
+in terms of the average daily inflows and outflows, so we can say on initial thought that these three days are more likely to bring more people to the gala. Also, we notice that the inflows and outflows are not equal that is because some of the exits
+do not have turnstiles which means that the number of people leaving will not be counted in these cases.
+ {: style="text-align: justify"}
+
+ The second figure shows the top five stations in terms of volume for the whole analysis period.
 {: style="text-align: justify"}
+![Image test]({{ site.url }}/images/fig2.png)
+
+The last figure shows the average daily volume for each day with respect to the time.
+{: style="text-align: justify"}
+![Image test]({{ site.url }}/images/fig3.png)
+
+we notice here that there is one issue, on Friday between 5 to 7 am a sudden spike occurs. This garbage data is due to the inaccuracy in cleaning the data.
+{: style="text-align: justify"}
+
+### Recommendations and Conclusion
