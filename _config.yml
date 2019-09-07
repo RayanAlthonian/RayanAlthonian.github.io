@@ -17,9 +17,9 @@ sass:
 
 # About/contact
 author:
-  name:              Zach Miller
-  url:               https://twitter.com/zaglamir
-  email:             zach@thisismetis.com
+  name:              Rayan Althonian
+  url:               https://twitter.com/ralthonian
+  email:             RayanAlthonian@gmail.com
 
 # Custom vars
 version:             2.0.0
@@ -32,7 +32,7 @@ gems:
   - jekyll-gist
 
 # Page List
-pages_list:       
+pages_list:
   About: '/about'
   Archive: '/archive'
   Feed: '/index.html'
