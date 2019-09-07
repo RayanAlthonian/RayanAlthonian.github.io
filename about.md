@@ -7,7 +7,7 @@ Rayan Althonian received his bachelor's degree in Electrical Engineering in Augu
 {: style="text-align: justify"}
 During his academic journey, he worked on several projects:
 
-* [An IoT Based Standalone Home Energy Management System] (https://www.youtube.com/watch?v=FLyqj4XW_0U&feature=youtu.be)
+* [An IoT Based Standalone Home Energy Management System](https://www.youtube.com/watch?v=FLyqj4XW_0U&feature=youtu.be)
 * Generation Expansion Planning (GEP) for the Saudi Power System
 * Design of FIR filters for FM Modulation Scheme
 {: style="text-align: justify"}
