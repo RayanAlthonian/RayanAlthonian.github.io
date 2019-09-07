@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About
 ---
 Rayan Althonian received his bachelor's degree in Electrical Engineering in August
 2019 from KFUPM with second honors award. He is primarily interested in Electronics, image processing, automation, IoT and AI.
