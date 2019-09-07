@@ -35,6 +35,16 @@ The last figure shows the average daily volume for each day with respect to the 
 We notice here that there is one issue, on Friday between 5 to 7 am a sudden spike occurs. This garbage data is due to the inaccuracy in cleaning the data.
 {: style="text-align: justify"}
 
+### Recommendations
+
+The analysis and visuals recommends the client to focus on the following days and stations:
+
+| Days       | Stations        |
+|------------|-----------------|
+| Thursday   | 34 ST-PENN STA  |
+| Wednesday  | GRD CNTRL-42 ST |
+| Friday     | 34 ST-HERALD SQ |
+
 ### Final Thoughts
 
 I think the first project is relatively easy, but it might be challenging for those
