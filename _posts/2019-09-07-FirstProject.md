@@ -13,7 +13,7 @@ The client is an NGO called women tech, women yes (WTWY) which aims to empower w
 
 We have followed certain steps in analyzing the data. Firstly, we have determined the analysis period which is 5 weeks prior to the beginning of June since June is the first month in summer. Secondly, we have extracted the data from [MTA webiste](http://web.mta.info/nyct/subway/). Thirdly, we have then cleaned the data by omitting outliers and negative values of the counting of the flow of people through the turnstiles. Lastly, we created visuals and deduced insights from them and then, we provided the client with the best possible times, stations and days.
 {: style="text-align: justify"}
-### The visuals and the Corresponding Insights
+### The Visuals and the Corresponding Insights
 
 The first visual that we have obtained is the one that shows the best days for the whole analysis period.
 {: style="text-align: justify"}
@@ -35,4 +35,4 @@ The last figure shows the average daily volume for each day with respect to the 
 we notice here that there is one issue, on Friday between 5 to 7 am a sudden spike occurs. This garbage data is due to the inaccuracy in cleaning the data.
 {: style="text-align: justify"}
 
-### Recommendations and Conclusion
+### Final Thoughts 
