@@ -32,7 +32,7 @@ The last figure shows the average daily volume for each day with respect to the 
 {: style="text-align: justify"}
 ![Image test]({{ site.url }}/images/fig3.png)
 
-we notice here that there is one issue, on Friday between 5 to 7 am a sudden spike occurs. This garbage data is due to the inaccuracy in cleaning the data.
+We notice here that there is one issue, on Friday between 5 to 7 am a sudden spike occurs. This garbage data is due to the inaccuracy in cleaning the data.
 {: style="text-align: justify"}
 
 ### Final Thoughts
