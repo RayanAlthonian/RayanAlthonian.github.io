@@ -1,11 +1,11 @@
 # Permalinks
-permalink:           minima
+permalink:           pretty
 
 # Setup
 title:               Rayan A. Althonian
 tagline:             A Moderately Okay Data Science Blog
 url:                 http://RayanAlthonian.github.io
-paginate:            2
+paginate:            1
 baseurl:             ""
 
 # Assets
