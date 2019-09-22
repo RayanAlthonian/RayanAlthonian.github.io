@@ -1,5 +1,5 @@
 # Permalinks
-permalink:           pretty
+permalink:           minima
 
 # Setup
 title:               Rayan A. Althonian
@@ -33,6 +33,6 @@ gems:
 
 # Page List
 pages_list:
-  About me: '/about'
+  About : '/about'
   Archive: '/archive'
   Feed: '/index.html'
