@@ -36,9 +36,6 @@ In this step, Selenium and BeautifulSoup were used to extract data from
 #### Step 3: Models Creation
 
 
-#### Step 3: Models Creation
-
-
 #### Step 4: Models Training and Validation
 
 
