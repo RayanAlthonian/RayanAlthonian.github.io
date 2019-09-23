@@ -72,26 +72,29 @@ In this model, only the numerical data were considered without any additional mo
 {: style="text-align: justify"}
 ![Image test]({{ site.url }}/images/pro2_model1.png)
 
-R-squared= 0.648, the R-squared is not bad. However, the residual is absolutely horrible.  
+R-squared= 0.648, cross-validation score= 0.639. The R-squared is not bad. However, the residual is absolutely horrible.  
 {: style="text-align: justify"}
 
 * **The Second Model**
-In this model,
 
+In this model, the number of reviews were only included. In addition to applying logarithmic transformation on both the number of reviews and the number of ratings.
+{: style="text-align: justify"}
+![Image test]({{ site.url }}/images/pro2_model2.png)
+R-squared= 0.879, cross-validation score= 0.878. The residual plot is better than the previous one. However, the Q-Q plot is not so great.
+{: style="text-align: justify"}
 
+* **The Final Model**
 
+Like the previous model, logarithmic transformation was applied, but also the rest of features were included except Philosophy.
+{: style="text-align: justify"}
+![Image test]({{ site.url }}/images/pro2_model3.png)
 
-
-
-
-
-
-
-
+R-squared= 0.889, cross-validation score= 0.888. The residual plot is better than the previous one and the Q-Q plot is also better.
+{: style="text-align: justify"}
 
 #### Step 5: Final Model Testing and Results
 
-The cross validation result for the final model is 0.889 and the testing result is 0.875, so R-squared and the residual plot shows that we have a fairly excellent model. However, when we look at the condition number from the stats table shown below, it turns out that we were tricked by over-fitting.
+The cross validation result for the final model is 0.888 and the testing result is 0.875, so R-squared and the residual plot shows that we have a fairly excellent model. However, when we look at the condition number from the stats table shown below, it turns out that we were tricked by over-fitting.
 {: style="text-align: justify"}
 ![Image test]({{ site.url }}/images/pro2_stats_table2.png)
 
