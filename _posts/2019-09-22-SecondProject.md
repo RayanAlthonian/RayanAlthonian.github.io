@@ -21,7 +21,7 @@ Well, we can rely on books related websites like [goodreads](https://www.goodrea
 The approach that i have followed is summarized in the following figure:
 {: style="text-align: justify"}
 
-![Image test]({{ site.url }}/images/data_j)
+![Image test]({{ site.url }}/images/data_jpng)
 
 These steps will be discussed in detail in the following subsections.
 {: style="text-align: justify"}
