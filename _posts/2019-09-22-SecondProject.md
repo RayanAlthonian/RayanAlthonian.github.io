@@ -66,6 +66,22 @@ In this stage, a set of models were created based on the observations that were 
 {: style="text-align: justify"}
 #### Step 4: Models Training and Validation
 
+- The First Model (Baseline Model)
+In this model, only the numerical data were considered without any additional modifications.
+{: style="text-align: justify"}
+![Image test]({{ site.url }}/images/pro2_model1.png)
+
+R-squared= 0.648, the R-squared is not bad. However, the residual is absolutely horrible.  
+
+
+
+
+
+
+
+
+
+
 
 #### Step 5: Final Model Testing and Results
 
@@ -73,7 +89,7 @@ The cross validation result for the final model is 0.889 and the testing result 
 {: style="text-align: justify"}
 ![Image test]({{ site.url }}/images/pro2_stats_table2.png)
 
-Now, that's quite an issue. **how can we solve it ?**
+Now, that's quite an issue. **How can we solve it ?**
 
 Well, thanks to regularization which can help us in avoiding over-fitting by providing a model that is somehow between the complex model and simple model.   
 {: style="text-align: justify"}
