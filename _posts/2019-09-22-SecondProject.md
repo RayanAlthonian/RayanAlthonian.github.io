@@ -30,13 +30,13 @@ These steps will be discussed in detail in the following subsections.
 
 In this step, Selenium and BeautifulSoup were used to extract data from [goodreads](https://www.goodreads.com). Selenium was used only to login to the website since the lists of books were hidden for guests. BeautifulSoup was used to extract the following features from each of the 5000 books:
 {: style="text-align: justify"}
-<div>
+
     * Number of reviews
     * Number of pages
     * Average rating
     * category
     * ISBN
-</div>
+
 In addition to the number of ratings which is the thing that i am trying to predict based on these features.
 {: style="text-align: justify"}
 
