@@ -50,6 +50,15 @@ After cleaning the data, EDA was done to get initial insights on the data. To el
 {: style="text-align: justify"}
 ![Image test]({{ site.url }}/images/pro2_heatmap.png)
 
+We can clearly see from the heatmap that overall we have low multi-colinearity so we do not need to worry about perfect colinearity. Also, the map tells us that number of reviews and fiction will probably have the highest effect on the model.
+{: style="text-align: justify"}
+
+Now, we can also get more insights from the pair plot below:
+{: style="text-align: justify"}
+![Image test]({{ site.url }}/images/pro2_pairplot.png)
+
+
+
 
 
 #### Step 3: Models Creation
