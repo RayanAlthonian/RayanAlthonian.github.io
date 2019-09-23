@@ -62,7 +62,7 @@ This pair plot shows that the number of reviews have almost linear relationship 
 
 #### Step 3: Models Creation
 
-In this stage, a set of models were created based on the observations that were seen from EDA. Some models involved some kind of variable transformation, others involved interaction terms and others just used some of the parameters without any transformation or interaction parameters. However, only three models of all models will be discussed in the following subsection.
+In this stage, a set of models were created based on the observations that were seen from EDA. Some models involved some kind of variable transformation, others involved interaction terms and others just used some of the parameters without any transformation or interaction parameters. Also, it should be noted that any feature that has a p-value > 0.05 were removed from the model. Now, only three models of all the models that were created will be discussed in the following subsection.
 
 #### Step 4: Models Training and Validation
 
