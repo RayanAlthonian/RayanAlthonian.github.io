@@ -58,12 +58,12 @@ Now, we can also get more insights from the pair plot below:
 ![Image test]({{ site.url }}/images/pro2_pairplot.png)
 
 This pair plot shows that the number of reviews have almost linear relationship with the number of ratings which means that it is of a great value to any model that we are going to create. Also, the histogram of number of ratings and number of reviews tells us that most likely we need to apply some kind of transformation like logarithmic transformation or power transformation.
-
+{: style="text-align: justify"}
 
 #### Step 3: Models Creation
 
 In this stage, a set of models were created based on the observations that were seen from EDA. Some models involved some kind of variable transformation, others involved interaction terms and others just used some of the parameters without any transformation or interaction parameters. Also, it should be noted that any feature that has a p-value > 0.05 were removed from the model. Now, only three models of all the models that were created will be discussed in the following subsection.
-
+{: style="text-align: justify"}
 #### Step 4: Models Training and Validation
 
 
