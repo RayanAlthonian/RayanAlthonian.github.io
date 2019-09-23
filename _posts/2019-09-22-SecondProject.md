@@ -67,11 +67,18 @@ Now, we can also get more insights from the pair plot below:
 #### Step 4: Models Training and Validation
 
 
-#### Step 5: Final Model Testing
+#### Step 5: Final Model Testing and Results
 
+The cross validation result for the final model is 0.889 and the testing result is 0.875, so R-squared and the residual plot shows that we have a fairly excellent model. However, when we look at the condition number from the stats table shown below, it turns out that we were tricked by over-fitting.
+{: style="text-align: justify"}
+![Image test]({{ site.url }}/images/pro2_stats_table2.png)
 
+Now, that's quite an issue. **how can we solve it ?**
 
-### Results
-
+Well, thanks to regularization which can help us in avoiding over-fitting by providing a model that is somehow between the complex model and simple model.   
+{: style="text-align: justify"}
 
 ### Final Thoughts and Recommendations
+
+In essence, a few modifications on the model are needed to make it perform in a better way. Firstly, and most importantly, regularization must be used to solve the issue of over-fitting. Furthermore, ISBN can be used to get an extremely significant feature like the price of the book which will certainly enhance the prediction of the model. Lastly, gathering additional data will also enhance the accuracy of the prediction.
+{: style="text-align: justify"}
