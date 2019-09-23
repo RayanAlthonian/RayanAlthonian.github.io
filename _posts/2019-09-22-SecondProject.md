@@ -28,7 +28,7 @@ These steps will be discussed in detail in the following subsections.
 
 #### Step 1: Web Scraping
 
-In this step, Selenium and BeautifulSoup were used to extract data from [goodreads](https://www.goodreads.com). Selenium was used only to login to the website since the lists of books were hidden for guests. BeautifulSoup was used to extract the following features from each of the 5000 books:
+In this step, Selenium and BeautifulSoup were used to extract data from [goodreads](https://www.goodreads.com). Data of 5000 books from 5 main genres were chosen which are Art, Business, Fiction, Science and Self-help. Selenium was used only to login to the website since the lists of books were hidden for guests. BeautifulSoup was used to extract the following features from each book:
 {: style="text-align: justify"}
 
   * Number of reviews
@@ -42,6 +42,14 @@ In addition to **the number of ratings** which is the thing that i am trying to 
 
 
 #### Step 2: Data Cleaning and Exploratory Data Analysis (**EDA**)
+
+In the cleaning stage, some books were removed because some of their features did not make any sense. For example, books that have zero number of pages or have significantly high number of pages like over 1500 pages were removed.
+{: style="text-align: justify"}
+
+After cleaning the data, EDA was done to get initial insights on the data. To elaborate, take a look at the following heatmap:
+{: style="text-align: justify"}
+![Image test]({{ site.url }}/images/pro2_heatmap.png)
+
 
 
 #### Step 3: Models Creation
