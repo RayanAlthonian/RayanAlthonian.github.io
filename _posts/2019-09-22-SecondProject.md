@@ -35,7 +35,7 @@ In this step, Selenium and BeautifulSoup were used to extract data from [goodrea
     * Average rating
     * category
     * ISBN
-
+{: style="text-align: justify"}
 In addition to the number of ratings which is the thing that i am trying to predict based on these features.
 {: style="text-align: justify"}
 
