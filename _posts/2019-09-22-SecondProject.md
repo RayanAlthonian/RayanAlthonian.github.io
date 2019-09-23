@@ -66,7 +66,7 @@ In this stage, a set of models were created based on the observations that were 
 {: style="text-align: justify"}
 #### Step 4: Models Training and Validation
 
-##### The First Model (Baseline Model)
+* **The First Model (Baseline Model)**
 
 In this model, only the numerical data were considered without any additional modifications.
 {: style="text-align: justify"}
@@ -75,8 +75,8 @@ In this model, only the numerical data were considered without any additional mo
 R-squared= 0.648, the R-squared is not bad. However, the residual is absolutely horrible.  
 {: style="text-align: justify"}
 
-##### The Second Model
-In this model, 
+* **The Second Model**
+In this model,
 
 
 
