@@ -55,6 +55,37 @@ We can clearly see from the heatmap that overall we have low multi-colinearity s
 
 Now, we can also get more insights from the pair plot below:
 {: style="text-align: justify"}
+Loading history...
+Saturday, September 28th
+￼￼
+Tony Schultz 1:02 PM
+Hello all.  To those of you who are interested in doing classification problems in finance please take the time to become acquainted with the principles of Islamic finance and what constitutes riba, or usury.  While “payday” loans are now legal in the USA after the financial deregulation brought in by Bill Clinton they are generally considered predatory and would not be permitted in the Islamic world.  As part of your project you should think about how you might structure your recommendations to a financial institution as to avoid violating Islamic finance principles.
+https://en.wikipedia.org/wiki/Riba
+￼Wikipedia
+Riba
+Riba (Arabic: ربا ,الربا، الربٰوة‎ ribā or al-ribā, IPA: [ˈrɪbæː]) can be roughly translated as "usury", or unjust, exploitative gains made in trade or business under Islamic law. Riba is mentioned and condemned in several different verses in the Qur'an (3:130, 4:161, 30:39 and perhaps most commonly in 2:275-2:280). It is also mentioned in many hadith (reports describing the words, actions, or habits of the Islamic prophet Muhammad).
+While Muslims agree that riba is prohibited, not all agree on what precisely it is,
+or whether its use should be punished by humans rather than Allah. It is often used as an Islamic term for interest charged on loans, and the belief this is based on — that there is a c… ￼Show more(120 kB)￼
+https://upload.wikimedia.org/wikipedia/commons/0/03/ALFiqh.png
+￼￼
+3
+￼
+￼￼
+Tony Schultz 4:47 PM
+Hi all.  Please join the #new_channels group where we will post new channels
+Sunday, September 29th
+￼￼
+Trevor Drummond 5:01 PM
+Extra Credit due Tuesday 4pm:
+Exercise at the end of the "big_SVM" notebook (edited)
+Monday, September 30th
+￼￼
+Trevor Drummond 12:18 PM
+Time Series exercise due TUESDAY 4PM:
+https://github.com/thisismetis/sa19_ds1/blob/master/curriculum/project-02/time-series/timeseries_autocorrelation.ipynb
+￼￼
+Trevor Drummond 12:25 PM
+
 ![Image test]({{ site.url }}/images/pro2_pairplot.png)
 
 This pair plot shows that the number of reviews have almost linear relationship with the number of ratings which means that it is of a great value to any model that we are going to create. Also, the histogram of number of ratings and number of reviews tells us that most likely we need to apply some kind of transformation like logarithmic transformation or power transformation.

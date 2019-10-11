@@ -7,17 +7,17 @@ Rayan Althonian received his bachelor's degree in Electrical Engineering in Augu
 {: style="text-align: justify"}
 During his academic journey, he worked on several projects:
 
-* [An IoT Based Standalone Home Energy Management System](https://www.youtube.com/watch?v=FLyqj4XW_0U&feature=youtu.be)
-* Generation Expansion Planning (GEP) for the Saudi Power System
-* Design of FIR filters for FM Modulation Scheme
+  * [An IoT Based Standalone Home Energy Management System](https://www.youtube.com/watch?v=FLyqj4XW_0U&feature=youtu.be)
+  * Generation Expansion Planning (GEP) for the Saudi Power System
+  * Design of FIR filters for FM Modulation Scheme
 {: style="text-align: justify"}
 
 Rayan also participated in a number of students clubs and initiatives:
 
-* IEEE SB
-* Innovation Club
-* [An introductory Lecture to Electrical Engineering](https://www.youtube.com/watch?v=MovhmDKFmCg&feature=youtu.be)
-* Member of KFUPM Delegation to Germany
+  * IEEE SB
+  * Innovation Club
+  * [An introductory Lecture to Electrical Engineering](https://www.youtube.com/watch?v=MovhmDKFmCg&feature=youtu.be)
+  * Member of KFUPM Delegation to Germany
 
 Aside from this, Rayan is a solo traveler who is currently in a mission to visit every single country out there.  
 {: style="text-align: justify"}
