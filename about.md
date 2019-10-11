@@ -6,7 +6,7 @@ Rayan Althonian received his bachelor's degree in Electrical Engineering in Augu
 2019 from KFUPM with second honors. He is primarily interested in Electronics, image processing, automation, IoT and AI.
 {: style="text-align: justify"}
 During his academic journey, he worked on several projects:
-
+ 
 <ul style="padding-left:20px">
     <li>[An IoT Based Standalone Home Energy Management System](https://www.youtube.com/watch?v=FLyqj4XW_0U&feature=youtu.be)</li>
     <li>Generation Expansion Planning (GEP) for the Saudi Power System</li>
