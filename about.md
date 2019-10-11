@@ -7,9 +7,12 @@ Rayan Althonian received his bachelor's degree in Electrical Engineering in Augu
 {: style="text-align: justify"}
 During his academic journey, he worked on several projects:
 
-* [An IoT Based Standalone Home Energy Management System](https://www.youtube.com/watch?v=FLyqj4XW_0U&feature=youtu.be)
-* Generation Expansion Planning (GEP) for the Saudi Power System
-* Design of FIR filters for FM Modulation Scheme
+<ul style="padding-left:20px">
+    <li>[An IoT Based Standalone Home Energy Management System](https://www.youtube.com/watch?v=FLyqj4XW_0U&feature=youtu.be)</li>
+    <li>Generation Expansion Planning (GEP) for the Saudi Power System</li>
+    <li>Design of FIR filters for FM Modulation Scheme</li>
+</ul>
+
 {: style="text-align: justify"}
 
 Rayan also participated in a number of students clubs and initiatives:
@@ -29,9 +32,3 @@ Rayan can be reached via:
 * [Couchsurfing](https://www.couchsurfing.com/people/rayan-althonian)
 * Phone number: +966500101751
 * Email: RayanAlthonian@gmail.com
-
-
-<ul style="padding-left:20px">
-    <li>hhElement 1</li>
-    <li>Element 2</li>
-</ul>
