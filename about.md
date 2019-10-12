@@ -33,7 +33,7 @@ Aside from this, Rayan is a solo traveler who is currently in a mission to visit
 {: style="text-align: justify"}
 
 Rayan can be reached via:
-
+ 
 <ul style="padding-left:20px">
 
     <li><a href="https://www.linkedin.com/in/rayan-althonian-0638b8156/">Linked-In</a></li>
