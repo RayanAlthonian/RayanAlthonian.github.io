@@ -19,7 +19,7 @@ During his academic journey, he worked on several projects:
 Rayan also participated in a number of students clubs and initiatives:
 
 <ul style="padding-left:20px">
- 
+
     <li>IEEE SB</li>
     <li>Innovation Club</li>
     <li><a href="https://www.youtube.com/watch?v=MovhmDKFmCg&feature=youtu.be">An introductory Lecture to Electrical Engineering</a></li>
