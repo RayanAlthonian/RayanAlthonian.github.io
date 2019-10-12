@@ -27,13 +27,14 @@ Rayan also participated in a number of students clubs and initiatives:
     <li>Member of KFUPM Delegation to Germany</li>
 
 </ul>
+
 {: style="text-align: justify"}
 
 Aside from this, Rayan is a solo traveler who is currently in a mission to visit every single country out there.  
 {: style="text-align: justify"}
 
 Rayan can be reached via:
-  
+
 <ul style="padding-left:20px">
 
     <li><a href="https://www.linkedin.com/in/rayan-althonian-0638b8156/">Linked-In</a></li>
@@ -43,4 +44,5 @@ Rayan can be reached via:
     <li>Email: RayanAlthonian@gmail.com</li>
 
 </ul>
+
 {: style="text-align: justify"}
