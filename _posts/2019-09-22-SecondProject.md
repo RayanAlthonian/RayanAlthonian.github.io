@@ -58,9 +58,7 @@ We can clearly see from the heatmap that overall we have low multi-colinearity s
 {: style="text-align: justify"}
 
 Now, we can also get more insights from the pair plot below:
-{: style="text-align: justify"}
-Loading history...
-Saturday, September 28th
+{: style="text-align: justify"} 
 ￼￼
 ![Image test]({{ site.url }}/images/pro2_pairplot.png)
 
