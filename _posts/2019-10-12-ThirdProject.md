@@ -64,7 +64,9 @@ Another interesting observation is that the number of skin pixels and non-skin p
 <img src="/images/sam.png">
 </p>
 
-The dataset is not large, so oversampling is a better option. The oversampling is done using SMOTE.  
+The dataset is not large, so oversampling is a better option. The oversampling is done using [SMOTE](https://imbalanced-learn.readthedocs.io/en/stable/generated/imblearn.over_sampling.SMOTE.html).  
+
+
 #### Step 4: Modeling
 
 
