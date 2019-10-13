@@ -77,8 +77,8 @@ Before creating any model, the data were split into training and test sets. Now,
 
 <ul style="padding-left:20px">
 
-    <li><b>Baseline Model: Logistic Regression Model</b> </li>
-
+    <li><b>The Baseline Model: Logistic Regression Model</b> </li>
+sdsd
 
 
     <li><b>The Second Model: Decision Trees Model </b> </li>
@@ -93,7 +93,7 @@ Before creating any model, the data were split into training and test sets. Now,
 
 
 
- 
+
 
 
 
