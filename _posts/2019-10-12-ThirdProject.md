@@ -44,14 +44,47 @@ Non-Skin Pixels histograms:
 </p>
 
 
-One interesting thing to notice in the histogram of the red color is that we can clearly say that any red value below 100 will be classified as a non-skin pixel. This tells us on initial thought that red color will be the most important feature in the classification model. The following figure illustrate the previously mentioned observation in a better way than the histogram.
+One interesting thing to notice in the histogram of the red color is that we can clearly say that any red value below 100 will be classified as a non-skin pixel. This tells us on initial thought that red color will be the most important feature in the classification model. The following figure illustrates the previously mentioned observation in a better way than the histogram.
 {: style="text-align: justify"}
 
 <p align="center">
 <img src="/images/redskin.png">
 </p>
 
+Another interesting observation is that the number of skin pixels and non-skin pixels is different, so we have two options:
+
+<ul style="padding-left:20px">
+
+    <li>Oversampling</li>
+    <li>Undersampling</li>
+
+</ul>
+
+<p align="center">
+<img src="/images/sam.png">
+</p>
+
+The dataset is not large, so oversampling is a better option. The oversampling is done using SMOTE.  
 #### Step 4: Modeling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #### Step 5: Final Model Testing
 
