@@ -42,10 +42,7 @@ One interesting thing to notice in the histogram of the red color is that we can
 
 {: style="text-align: justify"}
 ![Image test]({{ site.url }}/images/redskin.png)
-
-
-
-
+ 
 #### Step 4: Modeling
 
 #### Step 5: Final Model Testing
