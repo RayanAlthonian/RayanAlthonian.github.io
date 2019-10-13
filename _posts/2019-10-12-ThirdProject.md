@@ -69,18 +69,24 @@ The dataset is not large, so oversampling is a better option. The oversampling i
 
 #### Step 4: Modeling
 
-Before creating any model, the data were split into training and test sets. Now, there are two things that must be noted before talking about the baseline model and the rest of the models. The first thing is that the train set is over-sampled, then the score of it is determined in all the models. The second thing is that when we do cross validation, we have to over-sample the 60 % train set and validate on the remaining 20% for each fold. The following figure illustrates how the typical cross validation is done.  
+Before creating any model, the data were split into training and test sets. Now, there are three things that must be noted before talking about the baseline model and the rest of the models. The first thing is that the train set is over-sampled, then the score of it is determined in all the models. The second thing is that when we do cross validation, we have to over-sample the 60 % train set and validate on the remaining 20% for each fold. The last thing is that the best possible hyper-parameters were chosen using cross validation that was applied using pipe-lining. The following figure illustrates how the typical cross validation is done.  
 {: style="text-align: justify"}
 <p align="center">
 <img src="/images/cv.gif">
 </p>
 
- 
-
-
 <ul style="padding-left:20px">
 
-    <li><b>Logistic Regression Model (Baseline Model)</b> </li>
+    <li><b>Baseline Model: Logistic Regression Model</b> </li>
+
+
+
+    <li><b>The Second Model: Decision Trees Model </b> </li>
+
+
+
+    <li><b>The Final Model: Random Forest </b></li>
+
 
 
 </ul>
