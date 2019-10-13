@@ -39,10 +39,14 @@ Non-Skin Pixels histograms:
 ![Image test]({{ site.url }}/images/noskinhist.png)
 
 One interesting thing to notice in the histogram of the red color is that we can clearly say that any red value below 100 will be classified as a non-skin pixel. This tells us on initial thought that red color will be the most important feature in the classification model. The following figure illustrate the previously mentioned observation in a better way than the histogram.
-
 {: style="text-align: justify"}
+
 ![Image test]({{ site.url }}/images/redskin.png)
- 
+
+<p align="center">
+<img src="/images/redskin.png">
+</p>
+
 #### Step 4: Modeling
 
 #### Step 5: Final Model Testing
