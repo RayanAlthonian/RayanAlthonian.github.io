@@ -21,10 +21,28 @@ These steps will be discussed in detail in the following subsections.
 The dataset, [skin segmentation dataset](https://archive.ics.uci.edu/ml/datasets/skin+segmentation), was taken from UCI repository. This dataset includes the RGB values of pixels that were taken from face pictures of people of different ages, ethnic groups and genders. Each pixel is labeled as as either a skin pixel or non-skin pixel.
 {: style="text-align: justify"}
 #### Step 2: Data Cleaning
-In this step,
+In this step, null, Nan values and outliers were handled.
+{: style="text-align: justify"}
+
+#### Step 3: Exploratory Data Analysis (**EDA**)
+The pair plot for the different features is shown below.
+![Image test]({{ site.url }}/images/pro3_pic2.png)
+
+Clearly, there is an overlap between the features but it is partial overlapping which means we can continue with the same features without worrying about removing any feature. Also, note that since we just have 3 features which are the values of the RGB colors, we can not remove any of them even if we have a complete overlapping between the features. Additionally, the scatter plots show that nonlinear model must be used.
+{: style="text-align: justify"}
+Now, let's have a look at the histograms of the skin pixels and non-skin pixels.
+
+Skin Pixels histograms:   
+![Image test]({{ site.url }}/images/skinhist.png)
+
+Non-Skin Pixels histograms:  
+![Image test]({{ site.url }}/images/noskinhist.png)
+
+One interesting thing to notice in the histogram of the red color is that we can clearly say that any red value below 100 will be classified as a non-skin pixel. This tells us on initial thought that red color will be the most important feature in the classification model. The following figure illustrate the previously mentioned observation in a better way than the histogram.
 
 {: style="text-align: justify"}
-#### Step 3: Exploratory Data Analysis(**EDA**)
+![Image test]({{ site.url }}/images/redskin.png)
+
 
 
 
