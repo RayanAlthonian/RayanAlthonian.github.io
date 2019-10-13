@@ -75,7 +75,7 @@ Before creating any model, the data were split into training and test sets. Now,
 <ul style="padding-left:20px">
 
     <li><b>Logistic Regression Model (Baseline Model)</b> </li>
-
+ 
 
 </ul>
 
