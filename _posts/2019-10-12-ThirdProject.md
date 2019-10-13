@@ -71,7 +71,15 @@ The dataset is not large, so oversampling is a better option. The oversampling i
 
 Before creating any model, the data were split into training and test sets. Now, the train set was used to create the first model which is a logistic regression model. This model was chosen as a baseline model since logistic regression typically perform well in binary classification problems.   
 {: style="text-align: justify"}
-##### Logistic Regression Model (Baseline Model)
+
+<ul style="padding-left:20px">
+
+    <li>Logistic Regression Model (Baseline Model)</li>
+
+
+</ul>
+
+
 
 
 
