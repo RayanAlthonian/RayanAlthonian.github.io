@@ -103,7 +103,14 @@ A summary of the results is shown below:
  </tr>
 </table>
 
+The last thing to note about this model is the coefficients. A simple of bar chart of the coefficients is shown below:
 
+<p align="center">
+<img src="/images/logistic_feature.png">
+</p>
+
+Well, this is strange !, we expected red to have the highest impact on the model, but it did not.
+  
     <li><b>The Second Model: Decision Trees Model </b> </li>
 
 
