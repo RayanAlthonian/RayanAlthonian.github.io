@@ -160,31 +160,36 @@ Now, these results confirms our initial assessment of the data since red is the 
 </p>
 
     <li><b>The Final Model: Random Forest </b></li>
-Decision trees model provided excellent results, <b>but can we do even better ?</b> Yes !
+<p style="text-align: justify">  
+Decision trees model provided excellent results, <b>but can we do even better ?</b> Yes ! random forest is the best performing model and its training and cross validation results are shown below:  
+</p>
 
+<table style="width:100%">
+ <tr>
+   <th>Training F1-score </th>
+   <th>Cross-Validation F1-Score</th>
+   <th>AUC</th>
+ </tr>
+ <tr>
+   <td>1</td>
+   <td>0.9996</td>
+   <td>0.9999</td>
+ </tr>
+</table>
+
+<p style="text-align: justify">
+The last thing to note about this model is the coefficients. A simple of bar chart of the coefficients is shown below:
+</p>
+
+<p align="center">
+<img src="/images/randomforestcoe.png">
+</p>
+
+<p style="text-align: justify">
+Now, these results confirms our initial assessment of the data as the previous model. However, it gives green higher score than the previous model. The testing results of this model will be illustrated in the following section</p>
 
 </ul>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  
 
 #### Step 5: Final Model Testing
 
