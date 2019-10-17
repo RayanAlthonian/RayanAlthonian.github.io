@@ -104,16 +104,16 @@ A summary of the results is shown below:
    <td>0.939 </td>
  </tr>
 </table>
-
+<p style="text-align: justify">
 The last thing to note about this model is the coefficients. A simple of bar chart of the coefficients is shown below:
-{: style="text-align: justify"}
+</p>
 
 <p align="center">
 <img src="/images/logistic_feature.png">
 </p>
 
 Well, this is strange. We expected red to have the highest impact on the model, but it did not.
- 
+
     <li><b>The Second Model: Decision Trees Model </b> </li>
 
 
