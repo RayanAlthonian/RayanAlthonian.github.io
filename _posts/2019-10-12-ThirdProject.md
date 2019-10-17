@@ -107,7 +107,7 @@ A summary of the results is shown below:
 <p style="text-align": "justify">
 The last thing to note about this model is the coefficients. A simple of bar chart of the coefficients is shown below:
 </p>
-
+ 
 <p align="center">
 <img src="/images/logistic_feature.png">
 </p>
