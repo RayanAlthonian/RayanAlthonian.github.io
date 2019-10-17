@@ -92,11 +92,16 @@ Logisitc regression model was chosen as the baseline model because it typically 
 
 A summary of the results is shown below:
 
-| Training F1-score | Cross-Validation F1-Score |
-|-------------------|---------------------------|
-| 0.94              | 0.939                     |
- 
-
+<table style="width:100%">
+ <tr>
+   <th>Training F1-score </th>
+   <th>Cross-Validation F1-Score</th>
+ </tr>
+ <tr>
+   <td>0.94</td>
+   <td>0.939 </td>
+ </tr>
+</table>
 
 
     <li><b>The Second Model: Decision Trees Model </b> </li>
