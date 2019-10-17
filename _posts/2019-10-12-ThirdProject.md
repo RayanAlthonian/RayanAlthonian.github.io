@@ -110,7 +110,7 @@ The last thing to note about this model is the coefficients. A simple of bar cha
 </p>
 
 Well, this is strange !, we expected red to have the highest impact on the model, but it did not.
-  
+   
     <li><b>The Second Model: Decision Trees Model </b> </li>
 
 
