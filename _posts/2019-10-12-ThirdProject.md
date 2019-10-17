@@ -160,13 +160,13 @@ Now, these results confirms our initial assessment of the data since red is the 
 </p>
 
     <li><b>The Final Model: Random Forest </b></li>
-Decision trees model provided excellent results, **but can we do even better ?** Yes !
+Decision trees model provided excellent results, <b>but can we do even better ?</b> Yes !
 
 
 </ul>
 
 
- 
+
 
 
 
