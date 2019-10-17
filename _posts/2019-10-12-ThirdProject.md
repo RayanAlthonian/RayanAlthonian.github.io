@@ -91,9 +91,10 @@ Logisitc regression model was chosen as the baseline model because it typically 
 </ul>
 
 A summary of the results is shown below:
-| Training F1-score       | Cross-Validation F1-Score       |
-|-------------------------|---------------------------------|
-| 0.94                    | 0.939                           |
+
+| Training F1-score | Cross-Validation F1-Score |
+|-------------------|---------------------------|
+| 0.94              | 0.939                     |
 
 
 
