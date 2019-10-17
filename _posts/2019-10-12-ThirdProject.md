@@ -87,7 +87,7 @@ Logisitc regression model was chosen as the baseline model because it typically 
     <li>solver= 'saga'</li>
     <li>penalty='elasticnet'</li>
     <li>l1_ratio=0.1</li>
-    <li>C=100</li> 
+    <li>C=100</li>
     <li>max_iter=1000</li>
 
 
@@ -117,11 +117,50 @@ The last thing to note about this model is the coefficients. A simple of bar cha
 Well, this is strange. We expected red to have the highest impact on the model, but it did not.</p>
 
     <li><b>The Second Model: Decision Trees Model </b> </li>
+<p style="text-align: justify">
+The performance of the logistic regression was not bad, but we can always do better. Decision trees model was tuned by using the following parameters that were obtained by the pipeline:
+</p>
 
+<ul style="padding-left:20px">
 
+    <li>criterion='entropy'</li>
+    <li>max_depth=7</li>
+
+</ul>
+
+A summary of the results is shown below:
+
+<table style="width:100%">
+ <tr>
+   <th>Training F1-score </th>
+   <th>Cross-Validation F1-Score</th>
+   <th>AUC</th>
+ </tr>
+ <tr>
+   <td>1</td>
+   <td>0.9958</td>
+   <td>0.9972</td>
+ </tr>
+</table>
+
+<p style="text-align: justify">
+The last thing to note about this model is the coefficients. The following list shows the features importance in descending order(Important first):
+</p>
+
+<ul style="padding-left:20px">
+
+    <li>Red (score = 0.65)</li>
+    <li>Green (Score = 0.177)</li>
+    <li>Blue (Score = 0.175)</li>
+
+</ul>
+
+<p style="text-align: justify">
+Now, these results confirms our initial assessment of the data since red is the most important feature.
+</p>
 
     <li><b>The Final Model: Random Forest </b></li>
-
+Decision trees model provided excellent results, **but can we do even better ?** Yes !
 
 
 </ul>
