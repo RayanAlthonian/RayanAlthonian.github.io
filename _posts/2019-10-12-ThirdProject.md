@@ -78,8 +78,21 @@ Before creating any model, the data were split into training and test sets. Now,
 <ul style="padding-left:20px">
 
     <li><b>The Baseline Model: Logistic Regression Model</b> </li>
-sdsd
- 
+Logisitc regression model was chosen as the baseline model because it typically performs well in binary classification problems. The parameters for the model were as follows:
+<ul style="padding-left:20px">
+
+    <li>Oversampling</li>
+    <li>Undersampling</li>
+
+</ul>
+
+A summary of the results is shown below:
+| Training F1-score       | Cross-Validation F1-Score       |
+|-------------------------|---------------------------------|
+| 0.94                    | 0.939                           |
+
+
+
 
     <li><b>The Second Model: Decision Trees Model </b> </li>
 
