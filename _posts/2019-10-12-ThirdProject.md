@@ -80,14 +80,14 @@ Before creating any model, the data were split into training and test sets. Now,
     <li><b>The Baseline Model: Logistic Regression Model</b> </li>
 <p style="text-align: justify">
 Logisitc regression model was chosen as the baseline model because it typically performs well in binary classification problems. The parameters for the model were as follows:
-</p> 
+</p>
 
 <ul style="padding-left:20px">
 
     <li>solver= 'saga'</li>
     <li>penalty='elasticnet'</li>
     <li>l1_ratio=0.1</li>
-    <li>C=100</li>
+    <li>C=100</li> 
     <li>max_iter=1000</li>
 
 
