@@ -78,8 +78,9 @@ Before creating any model, the data were split into training and test sets. Now,
 <ul style="padding-left:20px">
 
     <li><b>The Baseline Model: Logistic Regression Model</b> </li>
+<p style="text-align: justify">
 Logisitc regression model was chosen as the baseline model because it typically performs well in binary classification problems. The parameters for the model were as follows:
-{: style="text-align: justify"}
+</p> 
 
 <ul style="padding-left:20px">
 
@@ -110,9 +111,10 @@ The last thing to note about this model is the coefficients. A simple of bar cha
 
 <p align="center">
 <img src="/images/logistic_feature.png">
-</p> 
+</p>
 
-Well, this is strange. We expected red to have the highest impact on the model, but it did not.
+<p style="text-align: justify">
+Well, this is strange. We expected red to have the highest impact on the model, but it did not.</p>
 
     <li><b>The Second Model: Decision Trees Model </b> </li>
 
